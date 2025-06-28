@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Roumya Ranjan Swain
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" length = "50%" width="70%" alt="Intro Banner" />
+
 
 
 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Digital Forensics**  
@@ -59,6 +59,8 @@
 - 📡 Deep packet inspection with ML-based threat detection
 - 🔐 Smart contract security and blockchain penetration testing
 - 📊 Building interactive dashboards with Streamlit and PDF export
+---
+<p><img align="center" width = "450" src="https://github-readme-stats.vercel.app/api?username=Roum-20&show_icons=true&locale=en" alt="Roum-20" /></p>
 
 
 
