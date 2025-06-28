@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Roumya Ranjan Swain
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Intro Banner" />
 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Digital Forensics**  
 🧠 Building advanced tools for security analysis, data recovery, and threat intelligence  
 🚀 Focused on creating **automated, intelligent, and user-friendly security tools**
