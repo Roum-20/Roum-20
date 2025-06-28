@@ -24,7 +24,8 @@
 - 🎯 **VulneraX**  
    This is a Streamlit-based web application that scans a given website URL for common web security vulnerabilities inspired by the OWASP Top 10
 
-- 🧰 **FlowPulse** 
+- 🧰 **FlowPulse**
+  
    A real-time, interactive dashboard built with Python, Scapy, and Streamlit to monitor and analyze network traffic on a Windows machine.
 ---
 
