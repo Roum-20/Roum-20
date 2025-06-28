@@ -57,7 +57,7 @@
 ## 🧪 Learning Platforms
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111923?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
 ---
 
 ## 🧠 Currently Exploring
