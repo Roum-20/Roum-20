@@ -14,23 +14,23 @@
 
 - 🔍 **NexPent**
   
-   NexPent is an advanced automated vulnerability assessment and penetration testing (VAPT) toolkit.
+   - NexPent is an advanced automated vulnerability assessment and penetration testing (VAPT) toolkit.
   
 - 🧪 **MalVista**
   
-  Malvista is a Streamlit-based interactive malware analysis framework. It provides static analysis, VirusTotal enrichment, MITRE ATT&CK mapping, IOC export, and risk scoring
+  - Malvista is a Streamlit-based interactive malware analysis framework. It provides static analysis, VirusTotal enrichment, MITRE ATT&CK mapping, IOC export, and risk scoring
 
 - 📡 **NetGuardian**
   
-   NetGuardian is a real-time network intrusion detection system (IDS) with a live interactive dashboard
+   - NetGuardian is a real-time network intrusion detection system (IDS) with a live interactive dashboard
 
 - 🎯 **VulneraX**
    
-   This is a Streamlit-based web application that scans a given website URL for common web security vulnerabilities inspired by the OWASP Top 10
+     - This is a Streamlit-based web application that scans a given website URL for common web security vulnerabilities inspired by the OWASP Top 10
 
 - 🧰 **FlowPulse**
 
-  A real-time, interactive dashboard built with Python, Scapy, and Streamlit to monitor and analyze network traffic on a Windows machine.
+     - A real-time, interactive dashboard built with Python, Scapy, and Streamlit to monitor and analyze network traffic on a Windows machine.
 ---
 
 ## 🧰 Tech Stack
