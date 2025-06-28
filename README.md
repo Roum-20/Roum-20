@@ -12,16 +12,20 @@
 
 ## 💼 Featured Projects
 
-- 🔍 **NexPent**  
+- 🔍 **NexPent**
+  
    NexPent is an advanced automated vulnerability assessment and penetration testing (VAPT) toolkit.
   
-- 🧪 **MalVista**  
+- 🧪 **MalVista**
+  
   Malvista is a Streamlit-based interactive malware analysis framework. It provides static analysis, VirusTotal enrichment, MITRE ATT&CK mapping, IOC export, and risk scoring
 
-- 📡 **NetGuardian**  
+- 📡 **NetGuardian**
+  
    NetGuardian is a real-time network intrusion detection system (IDS) with a live interactive dashboard
 
-- 🎯 **VulneraX**  
+- 🎯 **VulneraX**
+   
    This is a Streamlit-based web application that scans a given website URL for common web security vulnerabilities inspired by the OWASP Top 10
 
 - 🧰 **FlowPulse**
