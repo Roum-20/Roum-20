@@ -60,6 +60,8 @@
 - 🔐 Smart contract security and blockchain penetration testing
 - 📊 Building interactive dashboards with Streamlit and PDF export
 ---
+<p><img align="center" width = "450" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roum-20&show_icons=true&locale=en&layout=compact" alt="Roum-20" /></p>
+
 <p><img align="center" width = "450" src="https://github-readme-stats.vercel.app/api?username=Roum-20&show_icons=true&locale=en" alt="Roum-20" /></p>
 
 
