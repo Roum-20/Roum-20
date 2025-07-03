@@ -31,6 +31,10 @@
 - 🧰 **FlowPulse**
 
      - A real-time, interactive dashboard built with Python, Scapy, and Streamlit to monitor and analyze network traffic on a Windows machine.
+       
+- 🛡️ ** TrapTrace **
+     - These systems simulate vulnerabilities to bait malicious actors and study their behavior.
+   
 ---
 
 ## 🧰 Tech Stack
