@@ -34,6 +34,9 @@
        
 - 🛡️ **TrapTrace**
      - These systems simulate vulnerabilities to bait malicious actors and study their behavior.
+
+- 🔒 **RansomSim**
+     - RansomSim is an educational Streamlit-based tool that simulates a ransomware attack in a safe and controlled environment.
    
 ---
 
