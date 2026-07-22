@@ -5,7 +5,7 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center" valign="top">
-      
+      <!-- HTML ASCII Logo (Inline SVG is stripped by GitHub Markdown) -->
 <pre style="background-color: transparent; border: none; font-family: monospace; font-size: 13.5px; font-weight: 700; margin: 0; line-height: 1.25;">
 <font color="#00f5ff">            .l0WMMMMMN0l.            </font>
 <font color="#00f5ff">          lNMW0o:;,;:o0WMNl          </font>
