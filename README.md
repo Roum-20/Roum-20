@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=%24+neofetch+--user+roumya;%24+cat+%2Fetc%2Fsecurity_profile;%24+./hack_the_planet.sh;Let's+Secure+the+Security!" alt="Typing SVG">
 </div>
@@ -22,7 +21,7 @@
           </pattern>
         </defs>
         <style>
-          @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap');
           .logo-bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
           .logo-text {
             font-family: 'Fira Code', 'Consolas', monospace;
@@ -76,19 +75,19 @@
 <font color="#bd93f9"><b>Host:</b></font> <font color="#44475a">.......................</font> Bhubaneswar, Odisha, India
 <font color="#bd93f9"><b>Kernel:</b></font> <font color="#44475a">.....................</font> <font color="#ff5555"><b>Security Tool Developer</b></font>
 <font color="#bd93f9"><b>IDE:</b></font> <font color="#44475a">........................</font> VS Code, PyCharm, Linux
-
+<!-- -->
 <font color="#bd93f9"><b>Languages.Programming:</b></font> <font color="#44475a">......</font> <font color="#ff79c6">Python, C, C++, Bash</font>
 <font color="#bd93f9"><b>Languages.Computer:</b></font> <font color="#44475a">.........</font> <font color="#ff79c6">HTML, CSS, Markdown, JSON, YAML</font>
 <font color="#bd93f9"><b>Languages.Real:</b></font> <font color="#44475a">.............</font> <font color="#ff79c6">English, Hindi, Odia</font>
-
+<!-- -->
 <font color="#bd93f9"><b>Hobbies.Software:</b></font> <font color="#44475a">...........</font> Tool Dev, Malware Analysis
 <font color="#bd93f9"><b>Hobbies.Hardware:</b></font> <font color="#44475a">...........</font> Hardware Hacking
-
+<!-- -->
 <font color="#00ff88"><b>Contact</b></font>
 <font color="#bd93f9"><b>Email.Personal:</b></font> <font color="#44475a">.............</font> <font color="#8be9fd">roumyaranjanswain5@gmail.com</font>
 <font color="#bd93f9"><b>LinkedIn:</b></font> <font color="#44475a">...................</font> <font color="#8be9fd">roumyaranjanswain</font>
 <font color="#bd93f9"><b>GitHub:</b></font> <font color="#44475a">.....................</font> <font color="#8be9fd">Roum-20</font>
-
+<!-- -->
 <font color="#ffb86c"><b>GitHub Stats</b></font> <font color="#485165">--------------------------------</font>
 <font color="#bd93f9"><b>Repos:</b></font> <font color="#44475a">....</font> <font color="#50fa7b">12</font> (Contributed: 24)  | <font color="#bd93f9"><b>Stars:</b></font> <font color="#44475a">..</font> <font color="#50fa7b">38</font>
 <font color="#bd93f9"><b>Commits:</b></font> <font color="#44475a">...................</font> <font color="#50fa7b">482</font>  | <font color="#bd93f9"><b>Followers:</b></font> <font color="#50fa7b">4</font>
