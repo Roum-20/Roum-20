@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 570" width="100%" height="100%">
+  <defs>
+    <!-- Gradient for Border Glow -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff">
+        <animate attributeName="stop-color" values="#00f5ff; #8a2be2; #00ff88; #00f5ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8a2be2">
+        <animate attributeName="stop-color" values="#8a2be2; #00ff88; #00f5ff; #8a2be2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Neon Drop Shadow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;display=swap');
+
+    .bg { fill: #0b0f19; rx: 12px; }
+    .border { fill: none; stroke: url(#borderGrad); stroke-width: 2px; rx: 12px; }
+    .header-bar { fill: #161b26; rx: 12px 12px 0 0; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .header-title { font-family: 'Fira Code', monospace; font-size: 13px; fill: #8b949e; font-weight: 600; }
+    
+    .terminal-text {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      font-size: 13.5px;
+      white-space: preserve;
+    }
+
+    .ascii-logo {
+      fill: #00f5ff;
+      filter: drop-shadow(0px 0px 4px rgba(0, 245, 255, 0.6));
+      animation: logoPulse 4s ease-in-out indefinite alternate;
+    }
+
+    .user-header { fill: #00ff88; font-weight: 700; }
+    .divider { fill: #485165; }
+    .label { fill: #bd93f9; font-weight: 600; }
+    .dots { fill: #44475a; }
+    .val-os { fill: #f1fa8c; }
+    .val-info { fill: #f8f8f2; }
+    .val-sec { fill: #ff5555; font-weight: 600; }
+    .val-lang { fill: #ff79c6; }
+    .val-contact { fill: #8be9fd; }
+    .stats-header { fill: #ffb86c; font-weight: 700; }
+    .stats-val { fill: #50fa7b; }
+
+    /* Keyframe Animations */
+    @keyframes logoPulse {
+      0% { filter: drop-shadow(0px 0px 3px rgba(0, 245, 255, 0.4)); fill: #00f5ff; }
+      50% { filter: drop-shadow(0px 0px 9px rgba(138, 43, 226, 0.8)); fill: #a742ff; }
+      100% { filter: drop-shadow(0px 0px 3px rgba(0, 245, 255, 0.4)); fill: #00f5ff; }
+    }
+
+    .line-fade {
+      opacity: 0;
+      animation: fadeIn 0.6s ease-out forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .cursor {
+      fill: #00ff88;
+      animation: blink 1s step-start indefinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    .scanline-overlay {
+      fill: url(#scanlines);
+      pointer-events: none;
+    }
+
+    /* Staggered delay for terminal lines */
+    .l1 { animation-delay: 0.1s; }
+    .l2 { animation-delay: 0.2s; }
+    .l3 { animation-delay: 0.3s; }
+    .l4 { animation-delay: 0.4s; }
+    .l5 { animation-delay: 0.5s; }
+    .l6 { animation-delay: 0.6s; }
+    .l7 { animation-delay: 0.7s; }
+    .l8 { animation-delay: 0.8s; }
+    .l9 { animation-delay: 0.9s; }
+    .l10 { animation-delay: 1.0s; }
+    .l11 { animation-delay: 1.1s; }
+    .l12 { animation-delay: 1.2s; }
+    .l13 { animation-delay: 1.3s; }
+    .l14 { animation-delay: 1.4s; }
+    .l15 { animation-delay: 1.5s; }
+    .l16 { animation-delay: 1.6s; }
+    .l17 { animation-delay: 1.7s; }
+    .l18 { animation-delay: 1.8s; }
+    .l19 { animation-delay: 1.9s; }
+    .l20 { animation-delay: 2.0s; }
+    .l21 { animation-delay: 2.1s; }
+    .l22 { animation-delay: 2.2s; }
+    .l23 { animation-delay: 2.3s; }
+    .l24 { animation-delay: 2.4s; }
+    .l25 { animation-delay: 2.5s; }
+  </style>
+
+  <!-- Background Card -->
+  <rect class="bg" width="920" height="570" />
+  <rect class="border" width="918" height="568" x="1" y="1" />
+
+  <!-- Terminal Window Header Bar -->
+  <rect class="header-bar" width="920" height="38" />
+  <circle class="dot-red" cx="22" cy="19" r="6" />
+  <circle class="dot-yellow" cx="42" cy="19" r="6" />
+  <circle class="dot-green" cx="62" cy="19" r="6" />
+  <text class="header-title" x="460" y="24" text-anchor="middle">roumya@swain:~ (fastfetch)</text>
+
+  <!-- Terminal Body Content -->
+  <g class="terminal-text" transform="translate(25, 65)">
+    <!-- Line 1 -->
+    <g class="line-fade l1">
+      <text x="0" y="0"><tspan class="ascii-logo">            .l0WMMMMMN0l.   </tspan><tspan class="user-header">            roumya@swain </tspan><tspan class="divider">----------------------------------------------------</tspan></text>
+    </g>
+    <!-- Line 2 -->
+    <g class="line-fade l2">
+      <text x="0" y="20"><tspan class="ascii-logo">          lNMW0o:;,;:o0WMNl </tspan><tspan class="label">            OS: </tspan><tspan class="dots">......................... </tspan><tspan class="val-os">Windows 11, Kali Linux, Android</tspan></text>
+    </g>
+    <!-- Line 3 -->
+    <g class="line-fade l3">
+      <text x="0" y="40"><tspan class="ascii-logo">        oMMk'           'kMNc   </tspan><tspan class="label">        Uptime: </tspan><tspan class="dots">..................... </tspan><tspan class="val-info">21 years, 8 months, 14 days</tspan></text>
+    </g>
+    <!-- Line 4 -->
+    <g class="line-fade l4">
+      <text x="0" y="60"><tspan class="ascii-logo">      .NMx                 oW0. </tspan><tspan class="label">        Host: </tspan><tspan class="dots">....................... </tspan><tspan class="val-info">Bhubaneswar, Odisha, India</tspan></text>
+    </g>
+    <!-- Line 5 -->
+    <g class="line-fade l5">
+      <text x="0" y="80"><tspan class="ascii-logo">     ,MN.                   .KX'</tspan><tspan class="label">        Kernel: </tspan><tspan class="dots">..................... </tspan><tspan class="val-sec">Security Tool Developer</tspan></text>
+    </g>
+    <!-- Line 6 -->
+    <g class="line-fade l6">
+      <text x="0" y="100"><tspan class="ascii-logo">    .MMK:'                 .;OWX.</tspan><tspan class="label">       IDE: </tspan><tspan class="dots">........................ </tspan><tspan class="val-info">VS Code, PyCharm, Linux</tspan></text>
+    </g>
+    <!-- Line 7 -->
+    <g class="line-fade l7">
+      <text x="0" y="120"><tspan class="ascii-logo">    XMoOMMWx.           .lKNKxlNO</tspan></text>
+    </g>
+    <!-- Line 8 -->
+    <g class="line-fade l8">
+      <text x="0" y="140"><tspan class="ascii-logo">   :Mx   .oWMO.       .xWKc.   oW,</tspan><tspan class="label">      Languages.Programming: </tspan><tspan class="dots">...... </tspan><tspan class="val-lang">Python, C, C++, Bash</tspan></text>
+    </g>
+    <!-- Line 9 -->
+    <g class="line-fade l9">
+      <text x="0" y="160"><tspan class="ascii-logo">   KM.      :MM:     ;NX;      .Wx</tspan><tspan class="label">      Languages.Computer: </tspan><tspan class="dots">......... </tspan><tspan class="val-lang">HTML, CSS, Markdown, JSON, YAML</tspan></text>
+    </g>
+    <!-- Line 10 -->
+    <g class="line-fade l10">
+      <text x="0" y="180"><tspan class="ascii-logo">   MN         0Mc   lMx         K0</tspan><tspan class="label">      Languages.Real: </tspan><tspan class="dots">............. </tspan><tspan class="val-lang">English, Hindi, Odia</tspan></text>
+    </g>
+    <!-- Line 11 -->
+    <g class="line-fade l11">
+      <text x="0" y="200"><tspan class="ascii-logo">   MX          oMc cMo          0X</tspan></text>
+    </g>
+    <!-- Line 12 -->
+    <g class="line-fade l12">
+      <text x="0" y="220"><tspan class="ascii-logo">   MN           ONcNk           KK</tspan><tspan class="label">      Hobbies.Software: </tspan><tspan class="dots">........... </tspan><tspan class="val-info">Tool Dev, Malware Analysis</tspan></text>
+    </g>
+    <!-- Line 13 -->
+    <g class="line-fade l13">
+      <text x="0" y="240"><tspan class="ascii-logo">   XM.          .XNX.          .Nx</tspan><tspan class="label">      Hobbies.Hardware: </tspan><tspan class="dots">........... </tspan><tspan class="val-info">Hardware Hacking</tspan></text>
+    </g>
+    <!-- Line 14 -->
+    <g class="line-fade l14">
+      <text x="0" y="260"><tspan class="ascii-logo">   cMx           kNx           lW;</tspan></text>
+    </g>
+    <!-- Line 15 -->
+    <g class="line-fade l15">
+      <text x="0" y="280"><tspan class="ascii-logo">    XMWMWXXXXXXXXXNXXXXXXXXXXXKNO </tspan><tspan class="user-header">      Contact</tspan></text>
+    </g>
+    <!-- Line 16 -->
+    <g class="line-fade l16">
+      <text x="0" y="300"><tspan class="ascii-logo">    'MM:.,,,,,,,,''',,,,,,,,.:NX. </tspan><tspan class="label">      Email.Personal: </tspan><tspan class="dots">............. </tspan><tspan class="val-contact">roumyaranjanswain8@gmail.com</tspan></text>
+    </g>
+    <!-- Line 17 -->
+    <g class="line-fade l17">
+      <text x="0" y="320"><tspan class="ascii-logo">     ,NO.                   .KO.  </tspan><tspan class="label">      Email.Personal: </tspan><tspan class="dots">............. </tspan><tspan class="val-contact">roumyaranjanswain5@gmail.com</tspan></text>
+    </g>
+    <!-- Line 18 -->
+    <g class="line-fade l18">
+      <text x="0" y="340"><tspan class="ascii-logo">      .KWc                 cWK    </tspan><tspan class="label">      LinkedIn: </tspan><tspan class="dots">................... </tspan><tspan class="val-contact">roumyaranjanswain</tspan></text>
+    </g>
+    <!-- Line 19 -->
+    <g class="line-fade l19">
+      <text x="0" y="360"><tspan class="ascii-logo">        lNXc.           .lXNl     </tspan><tspan class="label">      GitHub: </tspan><tspan class="dots">..................... </tspan><tspan class="val-contact">Roum-20</tspan></text>
+    </g>
+    <!-- Line 20 -->
+    <g class="line-fade l20">
+      <text x="0" y="380"><tspan class="ascii-logo">         .lXN0o:,'.',:xKNKl.      </tspan></text>
+    </g>
+    <!-- Line 21 -->
+    <g class="line-fade l21">
+      <text x="0" y="400"><tspan class="ascii-logo">            'ck0XXXXX0kc'         </tspan><tspan class="stats-header">      GitHub Stats </tspan><tspan class="divider">-----------------------------------------</tspan></text>
+    </g>
+    <!-- Line 22 -->
+    <g class="line-fade l22">
+      <text x="0" y="420"><tspan class="ascii-logo">                                  </tspan><tspan class="label">      Repos: </tspan><tspan class="dots">.... </tspan><tspan class="stats-val">12</tspan><tspan class="val-info"> (Contributed: 24)  | </tspan><tspan class="label">Stars: </tspan><tspan class="dots">.......... </tspan><tspan class="stats-val">38</tspan></text>
+    </g>
+    <!-- Line 23 -->
+    <g class="line-fade l23">
+      <text x="0" y="440"><tspan class="ascii-logo">                                  </tspan><tspan class="label">      Commits: </tspan><tspan class="dots">................... </tspan><tspan class="stats-val">482</tspan><tspan class="val-info">  | </tspan><tspan class="label">Followers: </tspan><tspan class="dots">....... </tspan><tspan class="stats-val">4</tspan></text>
+    </g>
+    <!-- Line 24 -->
+    <g class="line-fade l24">
+      <text x="0" y="460"><tspan class="ascii-logo">                                  </tspan><tspan class="label">      Lines of Code on GitHub: </tspan><tspan class="stats-val">15,420</tspan><tspan class="val-info"> ( 12,850++, 2,570-- )</tspan></text>
+    </g>
+    <!-- Line 25 (Cursor Line) -->
+    <g class="line-fade l25">
+      <text x="0" y="485"><tspan class="user-header">roumya@swain:~$ </tspan><rect class="cursor" x="145" y="473" width="9" height="15" /></text>
+    </g>
+  </g>
+
+  <!-- Subtle Scanline Overlay -->
+  <rect class="scanline-overlay" width="920" height="570" rx="12"/>
+</svg>
