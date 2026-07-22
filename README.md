@@ -21,7 +21,6 @@
           </pattern>
         </defs>
         <style>
-          @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap');
           .logo-bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
           .logo-text {
             font-family: 'Fira Code', 'Consolas', monospace;
