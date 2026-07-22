@@ -5,32 +5,32 @@
 <br>
 
 <pre>
-            .,:cccc:,.                    <b>roumya@github</b> ──────────────────────────────────
-        .:okKNWMMWNKko:.                  OS: ......................... Windows, Kali Linux
-      :xXWMMMMMMMMMMMWXx:                 Location: ................... Bhubaneswar, India
-    :OWMMMWXOxxxxxOXWMMMWO:               Focus: ...................... Cybersecurity & InfoSec
-   oNMMMNk:.       .:kNMMMNo              IDE: ........................ VS Code
-  oWMMMXl.           .lXMMMWo
- :XMMMK;     .::.     ;KMMMX:            <b>Languages.Programming</b>: ..... Python, C, C++
- oMMMWo     .xWMWx.    oWMMMo            <b>Languages.Markup</b>: .......... HTML5, CSS, Markdown
- xMMMW:    .dWMMMWd.   :WMMMx            <b>Languages.Tools</b>: ........... Git, Nmap, Scapy, Wireshark
- oMMMWo   .kWMMMMMWk.  oWMMMo
- :XMMMK; .kWMWxoWMWk. ;KMMMX:            <b>Specializations</b> ─────────────────────────────────
-  oWMMMXodNMWx. .xWMNdoXMMMWo            Security.Offensive: ......... Ethical Hacking, VAPT
-   oNMMMWMMNl    lNMMWMMMNNo              Security.Defensive: ......... Network IDS, Threat Intel
-    :OWMMMNd......dNMMMWO:                Security.Forensics: ......... Malware Analysis, DFIR
- ;loo:lXMMMWNXXXNWMMMXl:ool;              Security.Research: .......... Blockchain Security
- xWMMNOkXMMMMMMMMMMXkONMMWx
- :XMMMMWWMMMMMMMMMMWWMMMMX:               <b>Featured.Tools</b> ──────────────────────────────────
-  oWMMMMMMNOdxxxxdONMMMMMMo               NexPent: .................... Automated VAPT Toolkit
-   oNMMMW0:.      .:0WMMMNo              MalVista: ................... Malware Analysis Framework
-    :OWMNo          oNMWO:                NetGuardian: ................ Real-time Network IDS
-      :xKXd,      ,dXKx:                 VulneraX: ................... OWASP Web Vuln Scanner
-        .:okOOOOOOko:.                    FlowPulse: .................. Network Traffic Dashboard
-            .,'',',.                      TrapTrace: .................. Honeypot Detection System
-                                          RansomSim: .................. Ransomware Simulation
+             .::::::::::::::::.           <b>roumya@github</b> ──────────────────────────────────
+          .::''              ''::.        OS: ......................... Windows, Kali Linux
+        .::                      ::.      Location: ................... Bhubaneswar, India
+       .::        .::::::.        ::.     Focus: ...................... Cybersecurity & InfoSec
+      .::       .::'  ||  '::.     ::.    IDE: ........................ VS Code
+     .::       .::    ||    ::.     ::.
+    .::       .::     ||     ::.     ::.  <b>Languages.Programming</b>: ..... Python, C, C++
+    ::========::======||======::========::<b>Languages.Markup</b>: .......... HTML5, CSS, Markdown
+    ::        ::      ||      ::        ::<b>Languages.Tools</b>: ........... Git, Nmap, Scapy, Wireshark
+    '::        '::    ||    ::'        ::'
+     '::         '::::||::::'         ::' <b>Specializations</b> ─────────────────────────────────
+       '::            ||            ::'   Security.Offensive: ......... Ethical Hacking, VAPT
+         '::.                    .::'     Security.Defensive: ......... Network IDS, Threat Intel
+           '::::::::::::::::::::'         Security.Forensics: ......... Malware Analysis, DFIR
+                                          Security.Research: .......... Blockchain Security
    <b>Roumya Ranjan Swain</b>
-   Security Tool Developer                <b>Contact</b> ─────────────────────────────────────────
+   Security Tool Developer                <b>Featured.Tools</b> ──────────────────────────────────
+                                          NexPent: .................... Automated VAPT Toolkit
+                                          MalVista: ................... Malware Analysis Framework
+                                          NetGuardian: ................ Real-time Network IDS
+                                          VulneraX: ................... OWASP Web Vuln Scanner
+                                          FlowPulse: .................. Network Traffic Dashboard
+                                          TrapTrace: .................. Honeypot Detection System
+                                          RansomSim: .................. Ransomware Simulation
+
+                                          <b>Contact</b> ─────────────────────────────────────────
                                           Email: ...................... roumyaranjanswain8@gmail.com
                                           LinkedIn: ................... in/roumyaranjanswain
                                           TryHackMe: .................. RoumyaRanjanSwain
