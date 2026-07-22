@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=%24+neofetch+--user+roumya;%24+cat+%2Fetc%2Fsecurity_profile;%24+./hack_the_planet.sh;Let's+Secure+the+Security!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=%24+neofetch+--user+roum-20;%24+cat+%2Fetc%2Fsecurity_profile;%24+./hack_the_planet.sh;Let's+Secure+the+Security!" alt="Typing SVG">
 </div>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center" valign="top">
-      <!-- HTML ASCII Logo (Inline SVG is stripped by GitHub Markdown) -->
+      
 <pre style="background-color: transparent; border: none; font-family: monospace; font-size: 13.5px; font-weight: 700; margin: 0; line-height: 1.25;">
 <font color="#00f5ff">            .l0WMMMMMN0l.            </font>
 <font color="#00f5ff">          lNMW0o:;,;:o0WMNl          </font>
