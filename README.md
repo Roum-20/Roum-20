@@ -20,7 +20,7 @@
    XM.          .XNX.          .Nx      Hobbies.Hardware: ........... Hardware Hacking
    cMx           kNx           lW;      
     XMWMWXXXXXXXXXNXXXXXXXXXXXKNO       Contact
-    'MM:.,,,,,,,,''',,,,,,,,.:NX.       Email.Personal: ............. roumyaranjanswain8@gmail.com
+    'MM:.,,,,,,,,''',,,,,,,,.:NX.      
      ,NO.                   .KO.        Email.Personal: ............. roumyaranjanswain5@gmail.com
       .KWc                 cWK          LinkedIn: ................... roumyaranjanswain
         lNXc.           .lXNl           GitHub: ..................... Roum-20
