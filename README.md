@@ -5,42 +5,32 @@
 <br>
 
 <pre>
-         .-=+#%@@@@%#+=-.                 <b>roumya@github</b> ──────────────────────────────────
-      -*%#+='.        .'=+#%*-            OS: ......................... Windows, Kali Linux
-    =#%+.                  .+#%=          Location: ................... Bhubaneswar, India
-  :#%*--:.                .:--*%#:        Focus: ...................... Cybersecurity & InfoSec
- =%#.   .:-++:.      .:++-:.   .#%=       IDE: ........................ VS Code
-+#+        .-*+=.  .=+*-.        +#+
-#%:           .+#==%+.           :%#      <b>Languages.Programming</b>: ..... Python, C, C++
-#%             .:@@:.             %#      <b>Languages.Markup</b>: .......... HTML5, CSS, Markdown
-#%:           .:%@@%:.           :%#      <b>Languages.Tools</b>: ........... Git, Nmap, Scapy, Wireshark
-*#+==========%@@@@@@@@%==========+#*
- :#%-.      -%@@@@@@@@%-      .-%#:       <b>Specializations</b> ─────────────────────────────────
-  .+#%+:     .:%@@@@%:.     :+%#+.        Security.Offensive: ......... Ethical Hacking, VAPT
-    .=#%*-.     .::.     .-*%#=.          Security.Defensive: ......... Network IDS, Threat Intel
-       .-+#%#*+======+*#%#+-.             Security.Forensics: ......... Malware Analysis, DFIR
-           .:-========-:.                 Security.Research: .......... Blockchain Security
-
-   <b>Roumya Ranjan Swain</b>                   <b>Featured.Tools</b> ──────────────────────────────────
-   Security Tool Developer                NexPent: .................... Automated VAPT Toolkit
-                                          MalVista: ................... Malware Analysis Framework
-                                          NetGuardian: ................ Real-time Network IDS
-                                          VulneraX: ................... OWASP Web Vuln Scanner
-                                          FlowPulse: .................. Network Traffic Dashboard
-                                          TrapTrace: .................. Honeypot Detection System
-                                          RansomSim: .................. Ransomware Simulation
-
-                                          <b>Contact</b> ─────────────────────────────────────────
-                                          Email: ...................... roumyaranjanswain8@gmail.com
-                                          LinkedIn: ................... in/roumyaranjanswain
-                                          TryHackMe: .................. RoumyaRanjanSwain
-
-                                          <b>Currently.Exploring</b> ────────────────────────────
-                                          ► Advanced malware behavior analysis
-                                          ► Deep packet inspection with ML detection
-                                          ► Smart contract security & blockchain pentesting
-                                          ► Interactive dashboards with Streamlit
+            .l0WMMMMMN0l.               roumya@swain ----------------------------------------------------
+          lNMW0o:;,;:o0WMNl             OS: ......................... Windows 11, Kali Linux, Android
+        oMMk'           'kMNc           Uptime: ..................... 21 years, 8 months, 14 days
+      .NMx                 oW0.         Host: ....................... Bhubaneswar, Odisha, India
+     ,MN.                   .KX'        Kernel: ..................... Security Tool Developer
+    .MMK:'                 .;OWX.       IDE: ........................ VS Code, PyCharm, Linux
+    XMoOMMWx.           .lKNKxlNO       
+   :Mx   .oWMO.       .xWKc.   oW,      Languages.Programming: ...... Python, C, C++, Bash
+   KM.      :MM:     ;NX;      .Wx      Languages.Computer: ......... HTML, CSS, Markdown, JSON, YAML
+   MN         0Mc   lMx         K0      Languages.Real: ............. English, Hindi, Odia
+   MX          oMc cMo          0X      
+   MN           ONcNk           KK      Hobbies.Software: ........... Tool Dev, Malware Analysis
+   XM.          .XNX.          .Nx      Hobbies.Hardware: ........... Hardware Hacking
+   cMx           kNx           lW;      
+    XMWMWXXXXXXXXXNXXXXXXXXXXXKNO       Contact
+    'MM:.,,,,,,,,''',,,,,,,,.:NX.       Email.Personal: ............. roumyaranjanswain8@gmail.com
+     ,NO.                   .KO.        Email.Personal: ............. roumyaranjanswain5@gmail.com
+      .KWc                 cWK          LinkedIn: ................... roumyaranjanswain
+        lNXc.           .lXNl           GitHub: ..................... Roum-20
+         .lXN0o:,'.',:xKNKl.            
+            'ck0XXXXX0kc'               GitHub Stats -----------------------------------------
+                                        Repos: .... 12 (Contributed: 24)  | Stars: .......... 38
+                                        Commits: ................... 482  | Followers: ....... 4
+                                        Lines of Code on GitHub: 15,420 ( 12,850++, 2,570-- )
 </pre>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roumyaranjanswain"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
