@@ -5,65 +5,32 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center" valign="top">
-      <!-- Animated SVG Logo Inline (No external files) -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 440" width="100%">
-        <defs>
-          <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#00f5ff">
-              <animate attributeName="stop-color" values="#00f5ff; #8a2be2; #00ff88; #00f5ff" dur="6s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="100%" stop-color="#00ff88">
-              <animate attributeName="stop-color" values="#00ff88; #00f5ff; #8a2be2; #00ff88" dur="6s" repeatCount="indefinite"/>
-            </stop>
-          </linearGradient>
-          <pattern id="logoScanlines" width="100" height="4" patternUnits="userSpaceOnUse">
-            <line x1="0" y1="0" x2="100" y2="0" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
-          </pattern>
-        </defs>
-        <style>
-          .logo-bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
-          .logo-text {
-            font-family: 'Fira Code', 'Consolas', monospace;
-            font-size: 13.5px;
-            font-weight: 700;
-            fill: url(#logoGrad);
-            filter: drop-shadow(0px 0px 5px rgba(0, 245, 255, 0.75));
-            white-space: preserve;
-            animation: logoPulse 3s ease-in-out indefinite alternate;
-          }
-          @keyframes logoPulse {
-            0% { filter: drop-shadow(0px 0px 4px rgba(0, 245, 255, 0.6)); opacity: 0.9; }
-            50% { filter: drop-shadow(0px 0px 12px rgba(138, 43, 226, 0.9)); opacity: 1; }
-            100% { filter: drop-shadow(0px 0px 4px rgba(0, 255, 136, 0.8)); opacity: 0.9; }
-          }
-          .overlay { fill: url(#logoScanlines); pointer-events: none; }
-        </style>
-        <rect class="logo-bg" width="380" height="440" />
-        <g class="logo-text" transform="translate(15, 30)">
-          <text x="0" y="0">            .l0WMMMMMN0l.            </text>
-          <text x="0" y="20">          lNMW0o:;,;:o0WMNl          </text>
-          <text x="0" y="40">        oMMk'           'kMNc        </text>
-          <text x="0" y="60">      .NMx                 oW0.      </text>
-          <text x="0" y="80">     ,MN.                   .KX'     </text>
-          <text x="0" y="100">    .MMK:'                 .;OWX.    </text>
-          <text x="0" y="120">    XMoOMMWx.           .lKNKxlNO    </text>
-          <text x="0" y="140">   :Mx   .oWMO.       .xWKc.   oW,   </text>
-          <text x="0" y="160">   KM.      :MM:     ;NX;      .Wx   </text>
-          <text x="0" y="180">   MN         0Mc   lMx         K0   </text>
-          <text x="0" y="200">   MX          oMc cMo          0X   </text>
-          <text x="0" y="220">   MN           ONcNk           KK   </text>
-          <text x="0" y="240">   XM.          .XNX.          .Nx   </text>
-          <text x="0" y="260">   cMx           kNx           lW;   </text>
-          <text x="0" y="280">    XMWMWXXXXXXXXXNXXXXXXXXXXXKNO    </text>
-          <text x="0" y="300">    'MM:.,,,,,,,,''',,,,,,,,.:NX.    </text>
-          <text x="0" y="320">     ,NO.                   .KO.     </text>
-          <text x="0" y="340">      .KWc                 cWK       </text>
-          <text x="0" y="360">        lNXc.           .lXNl        </text>
-          <text x="0" y="380">         .lXN0o:,'.',:xKNKl.         </text>
-          <text x="0" y="400">            'ck0XXXXX0kc'            </text>
-        </g>
-        <rect class="overlay" width="380" height="440" rx="8" />
-      </svg>
+      <!-- HTML ASCII Logo (Inline SVG is stripped by GitHub Markdown) -->
+      <marquee behavior="alternate" scrollamount="1" height="420" direction="up">
+<pre style="background-color: transparent; border: none; font-family: monospace; font-size: 13.5px; font-weight: 700; margin: 0; line-height: 1.25;">
+<font color="#00f5ff">            .l0WMMMMMN0l.            </font>
+<font color="#00f5ff">          lNMW0o:;,;:o0WMNl          </font>
+<font color="#0af0f0">        oMMk'           'kMNc        </font>
+<font color="#0af0f0">      .NMx                 oW0.      </font>
+<font color="#14ebe1">     ,MN.                   .KX'     </font>
+<font color="#14ebe1">    .MMK:'                 .;OWX.    </font>
+<font color="#1ee6d2">    XMoOMMWx.           .lKNKxlNO    </font>
+<font color="#1ee6d2">   :Mx   .oWMO.       .xWKc.   oW,   </font>
+<font color="#28e1c3">   KM.      :MM:     ;NX;      .Wx   </font>
+<font color="#28e1c3">   MN         0Mc   lMx         K0   </font>
+<font color="#32dcb4">   MX          oMc cMo          0X   </font>
+<font color="#32dcb4">   MN           ONcNk           KK   </font>
+<font color="#3cd7a5">   XM.          .XNX.          .Nx   </font>
+<font color="#3cd7a5">   cMx           kNx           lW;   </font>
+<font color="#46d296">    XMWMWXXXXXXXXXNXXXXXXXXXXXKNO    </font>
+<font color="#46d296">    'MM:.,,,,,,,,''',,,,,,,,.:NX.    </font>
+<font color="#50cd87">     ,NO.                   .KO.     </font>
+<font color="#50cd87">      .KWc                 cWK       </font>
+<font color="#5ac878">        lNXc.           .lXNl        </font>
+<font color="#5ac878">         .lXN0o:,'.',:xKNKl.         </font>
+<font color="#64c369">            'ck0XXXXX0kc'            </font>
+</pre>
+      </marquee>
     </td>
     <td width="60%" valign="top">
       <!-- Static Description (No Animation) -->
