@@ -1,6 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=%24+neofetch+--user+roumya;%24+cat+%2Fetc%2Fsecurity_profile;%24+./hack_the_planet.sh;Let's+Secure+the+Security!" alt="Typing SVG">
 </div>
+<div align="center">
+  <img src="./terminal_animation.svg" width="100%" alt="Roumya Swain Fastfetch Profile Animation" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>📄 View Plain Text ASCII / Raw Fastfetch Output</b></summary>
 
 <br>
 
